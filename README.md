@@ -41,17 +41,4 @@ Install the dependencies:
 pip install streamlit openai tiktoken markitdown pytesseract pymupdf pillow
 ```
 
-**Note**:  
-Ensure `Tesseract OCR` is installed in your system for OCR extraction to work:
-- [Tesseract Installation Guide](https://github.com/tesseract-ocr/tesseract)
-
-## 👨‍💻 Developed By
-
-**Ahmed Zeyad Tareq**  
-- 🎓 Master's in Artificial Intelligence Engineering  
-- 📌 Data Scientist, AI Developer  
-- [GitHub](https://github.com/AhmedZeyadTareq) | [LinkedIn](https://www.linkedin.com/in/ahmed-zeyad-tareq) | [Kaggle](https://www.kaggle.com/ahmedzeyadtareq)
-
----
-
 ✨ **Enjoy smart document interaction!**
